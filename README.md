@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Rodrigo Munch!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoMunch&show_icons=true&theme=dark)](https://github.com/RodrigoMunch/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoMunch&show_icons=true&theme=dark)](https://github.com/RodrigoMunch)
 
 <div style="display: inline_block"><br>
   
