@@ -1,7 +1,5 @@
 ## Olá! Eu sou o Rodrigo Munch!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoMunch&show_icons=true&theme=dark)](https://github.com/RodrigoMunch)
-
 <div style="display: inline_block"><br>
   
   <img align="center" alt="Rod-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
